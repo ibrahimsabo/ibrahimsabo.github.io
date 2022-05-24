@@ -1,0 +1,108 @@
+<html>
+      <head>
+	  <title>ROBOTIC FORMATION</title>
+	  <img src="image/PH3.jpg"width="100%" height="auto">
+	  <style type="text/css">
+	  body {
+             color:white;
+             background-color: black ;
+            background-image:url(image/);
+			background-repeat:no-repeat;
+			background-position:100% 100%;
+			margin:5;
+			background-color:;
+           }
+		   #menu{
+			width:100%;
+			height:30;
+			background-color:black;
+			}
+			#contenu{
+			width:auto;
+			height:auto;
+			
+
+			}
+			#pied{
+			width:auto;
+			height:auto;
+			background-color:BLACK;
+			}
+			#conteneur{
+			width:auto;
+			margin-right:auto;
+			margin-left:auto;
+			}
+			#pied p{
+			margin-top:auto;
+			text-align:center;
+			}
+			#menu ul li{
+			      list-style:none;
+				  display:inline-block;
+				  margin-right:50px;
+			}
+			#menu ul {
+			margin-top:auto;
+			}
+			#menu ul li a{
+			   text-decoration:none;
+			   font-weight:bolder;
+			   color: blue
+			}
+			#menu ul li a:hover{
+			    color:GRAY;
+			}
+		   </style>
+	  </head>
+	         <body background="image/PH5.jpg"
+			 width="100%" height="auto"></body>
+			 <body>
+			       <div id="conteneur">
+		                              <div id="entete"></div>
+			                          <div id="menu">
+									  <ul>
+                                <li> <a>   D  O  J  O </li></a>
+								<li> <a>R  O  B  O  T  I  C </li></a>
+								 </ul>
+									  </div>
+		                <div id="contenu">
+				                         <style type="text/css">
+				                                                div{ border: auto solid #03F;
+					                                                 border-radius: auto; 
+	                                                               }
+											                    div{ border-width:auto;border-style:; 
+																     border-color:GRAY;
+																   }
+					                                            body{ color:white; 
+																         font-family: "Bahnschrift SemiBold", 
+																         Times,  serif;
+																         font-size: 20;
+																         font-weight: bolder; 
+																         text-align:left; 
+																    }
+																   P{ 
+																	   width: auto;
+																	   Height: auto; 
+																	}
+				                       </style>
+			<div class="container">
+				<h2 class='center'>PERSONAL INFO</h2>
+				    <p class='text-center'>I am Zangui Sabo Ibrahim studying in MSc. Mechatronics Engineering at PAUSTI, graduated with a University Diploma of Technology (U.D.T) in Mechanics and a license in electromechanics at the University of Maradi more precisely at the University Institute of Technology of Maradi.
+My expectations of this training is to master the tools of robotics including programming,i hope to gain knowledge and experience in robot design.
+
+					</p><br>
+				
+			
+             </div>									   
+				     </div>
+					 
+				</div>
+				 <img/ src="image/PH5.JPG"width="100%" height="auto"><br>
+			 </body><br><br>
+			 <br><br><br>
+
+				<p>ROBOTIC DOJO&copy;all rights reserved</p>
+				</div>
+			 
+</html>
